@@ -1,5 +1,5 @@
 ### Hello  👋
-Thank you for stopping by.
+Thank you for stopping by.!
 <!---
 - 🔭 I’m currently working on Angular 
 - 🌱 I’m currently learning React
