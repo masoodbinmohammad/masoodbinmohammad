@@ -10,6 +10,7 @@ Thank you for stopping by.!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My github stats](https://github-readme-stats.vercel.app/api?username=masoodbinmohammad)](https://github.com/anuraghazra/github-readme-stats)
 > More details are awaited. :wink:
 
 =========================================================================================
