@@ -12,7 +12,7 @@ Thank you for stopping by.!
 -->
 [![My github stats](https://github-readme-stats.vercel.app/api?username=masoodbinmohammad&count_private=true&hide=stars,issues&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats).
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodbinmohammad&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodbinmohammad&show_icons=true&theme=shades-of-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > More details are awaited. :wink:
 
 =========================================================================================
