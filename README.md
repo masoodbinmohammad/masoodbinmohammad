@@ -17,10 +17,9 @@
 - [Clean Code Using Null Conditional Operator and Coalescing Operator](https://dev.to/masoodbinmohammad/clean-code-using-null-conditional-operator-and-coalescing-operator-l70)
 - [Hosting Angular App to GitHub Pages for Free](https://dev.to/masoodbinmohammad/hosting-angular-app-to-github-pages-for-free-2g3h)
 
-<div>
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=masoodbinmohammad&count_private=true&hide=stars,issues&show_icons=true&theme=shades-of-purple alt=masoodbinmohammad /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=masoodbinmohammad&count_private=true&hide=stars,issues&show_icons=true&theme=shades-of-purple alt=masoodbinmohammad /> </p>
 
-<p align="right"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=masoodbinmohammad&show_icons=true&theme=shades-of-purple&layout=compact alt=masoodbinmohammad /> </p>
-<div>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=masoodbinmohammad&show_icons=true&theme=shades-of-purple&layout=compact alt=masoodbinmohammad /> </p>
+
 =========================================================================================
 
