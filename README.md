@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Zoom Clone](https://github.com/masoodbinmohammad/zoom-clone)
 - 📫 How to reach me: you can reach me anywhere @masoodbinmohammad
 
-**📖 Latest dev.to posts [@masoodbiinmohammad](https://dev.to/masoodbinmohammd)**
+**📖 My latest dev.to posts [@masoodbiinmohammad](https://dev.to/masoodbinmohammd)**
 - [Search Better. Google Dorks to Make Your Search Effective](https://dev.to/masoodbinmohammad/search-better-google-dorks-to-make-your-search-effective-5f4h)
 - [How I Built My Blog Using Gatsby and Netlify](https://dev.to/masoodbinmohammad/how-i-built-my-blog-using-gatsby-and-netlify-540j)
 - [Clean Code Using Null Conditional Operator and Coalescing Operator](https://dev.to/masoodbinmohammad/clean-code-using-null-conditional-operator-and-coalescing-operator-l70)
