@@ -7,9 +7,9 @@
 </p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=masoodbinmohammad alt=rahuldkjain/> </p>
 
-- 🔭 I’m currently working on [Zoom Clone](https://github.com/masoodbinmohammad/zoom-clone)
-- 🌱 Learning react, aws, docker
-- 👯 I’m looking to collaborate on [Zoom Clone](https://github.com/masoodbinmohammad/zoom-clone)
+- 🔭 I’m currently working on [Whatsapp Chatbot](https://github.com/masoodbinmohammad/whatsapp-chatbot)
+- 🌱 Learning react, docker.
+- 👯 I’m looking to collaborate on [Whatsapp Chatbot](https://github.com/masoodbinmohammad/whatsapp-chatbot)
 - 📫 How to reach me: you can reach me anywhere @masoodbinmohammad
 
 **📖 My latest dev.to posts [@masoodbiinmohammad](https://dev.to/masoodbinmohammd)**
